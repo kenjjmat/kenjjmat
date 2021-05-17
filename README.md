@@ -1,5 +1,7 @@
 ### Ayo Wassup, My name is Kennedy 👋
 
+<p> I'm a Freelancer software Developer </p>
+
 ![GitHub User's stars](https://img.shields.io/github/stars/kenjjmat?affiliations=OWNER&logo=GitHub&logoColor=white)
 ![GitHub followers](https://img.shields.io/github/followers/kenjjmat?logo=GitHub&logoColor=white)
 
